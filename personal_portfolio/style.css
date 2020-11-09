@@ -10,7 +10,7 @@ body {
 #welcome-section {
     height: 100vh;
     width: 100%;
-    background-image: url(https://lh3.googleusercontent.com/Iw0Ib1K2vvKvkXsd6D3fcAmmJzEFbstyzyhP-9hY4Sp5WcbON1UCFohCqZ0KVNAs68Is9GvAKILMfArdDT3lysbcZQQMLzz_5mWJuhomhGGjw3xCNDH7qHAdDE7CUm0dnYDJKjACINcc5XbVkrFoP5JE8cLQcvEfFeyw-BCvr_qvXWjKdTgShNflwyhJIZGn9ikVzBS6DNTjs_5CeF9jeLgTnntAT5niwgi9mv66KSRNnwaPm9HjO9dh4TUVtNm_3ODfebHtRfdmgltxAwegcbHhnlxNWqcJlYV5YCnvfm4lUQCX4QOL29ptfpzy6cfduBggAV64493rT-v1d-wP7Bn4WAn3D9j0JPuEuKt2C08etYD72pt0vyn0DrB330gjjO03W3hA3ka9ug5wqECTZ78pk0Sfdjzoa_Dap58B2cWZncfhi_ddh91YKHTEK_Fg5f3hEjvLw_Yqfp5i04axMH9AcqYL6Whv2IvB64uIvkp7S1i961_KbYBog9-AOdEtIM9o5Qbqyt1sq8OuXTXlvZz2x52gmzuel8BobeXBXBIIzA4IHv02kBF9H7a-U141HhG0A_1dCML6TQ-HKrFCxzECLDRb1d4Jsdv5L8Qx4NbUEAVaHKIqCY9s-COA3k7D1wRAqM03r0Mib_vsIvU8SVfZfCf8aWPw33cqHtWlchu3ZUAXJhR1ETl1vwVB=w867-h578-no?authuser=0);
+    background-image: url(./background1.jpg);
     background-size: cover;
     background-position: center;
     margin-top: 8vh;
@@ -206,7 +206,7 @@ h2 {
     
 }
 #links {
-    margin-top: 8vw;
+    margin-top: 4vw;
     display: flex;
     
     margin-left: auto;
@@ -255,7 +255,7 @@ footer {
     }
     nav {
         
-        padding:0vw;
+        padding:0.1vw;
                
     }
     
